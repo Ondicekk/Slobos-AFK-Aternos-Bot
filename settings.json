@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "OndicekkSMP.aternos.me:44230",
+    "ip": "OndicekkSMP.aternos.me",
     "port": 44230,
     "version": "",
     "try-creative": false
